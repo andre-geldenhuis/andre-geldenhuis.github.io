@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+I work for the University of Victoria in Wellington New Zealand as an eResearch Specialist
 
 ### More Information
 
