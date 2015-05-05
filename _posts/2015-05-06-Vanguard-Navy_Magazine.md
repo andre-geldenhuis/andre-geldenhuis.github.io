@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 ## A nice article on the Vangard rocket in the Navy Magazine "All Hands"
